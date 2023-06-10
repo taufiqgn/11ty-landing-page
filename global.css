@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-manrope: Manrope;
+
+  /* font sizes */
+  --font-size-base-6: 15.6px;
+  --font-size-3xl: 22px;
+  --font-size-xl: 20px;
+  --font-size-41xl: 60px;
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+  --color-whitesmoke: #f1f1f1;
+
+  /* Gaps */
+  --gap-xl: 20px;
+
+  /* border radiuses */
+  --br-xs-2: 11.2px;
+}

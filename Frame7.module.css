@@ -1,0 +1,62 @@
+.rectangle-div {
+  position: absolute;
+  top: calc(50% - 143.89px);
+  left: calc(50% + 230.5px);
+  border-radius: 27.94px;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    rgba(255, 255, 255, 0.4),
+    rgba(255, 255, 255, 0)
+  );
+  backdrop-filter: blur(29.34px);
+  width: 287.78px;
+  height: 461px;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.div,
+.div1,
+.fulan {
+  position: absolute;
+  left: calc(50% - 188.59px);
+  font-weight: 600;
+}
+.div {
+  top: calc(50% + 93.6px);
+  font-size: 22.35px;
+  letter-spacing: 0.15em;
+  line-height: 22.35px;
+}
+.div1,
+.fulan {
+  top: calc(50% + 68.45px);
+  line-height: 13.97px;
+}
+.div1 {
+  left: calc(50% + 62.17px);
+}
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 461px;
+  height: 287.78px;
+}
+.urzuqni2 {
+  position: absolute;
+  top: calc(50% - 115.99px);
+  left: calc(50% + 126.28px);
+  font-size: 20.59px;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-shadow: 0 3.4427785873413086px 29.36px #ff5151;
+}
+.frame-root {
+  position: relative;
+  width: 100%;
+  height: 287.78px;
+  text-align: left;
+  font-size: 13.97px;
+  color: var(--color-whitesmoke);
+  font-family: var(--font-manrope);
+}
